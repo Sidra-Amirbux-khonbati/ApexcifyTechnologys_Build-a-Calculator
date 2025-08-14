@@ -18,3 +18,8 @@ This project supports **real-time result preview** and **keyboard input**, makin
   - `Escape` → Clear all
 - **Responsive & Modern UI**
 - **Error Handling** for invalid inputs
+
+
+## 🔗 Live Demo
+
+👉 **[View Calculator Live](https://sidra-amirbux-khonbati.github.io/ApexcifyTechnologys_Build-a-Calculator/)**
